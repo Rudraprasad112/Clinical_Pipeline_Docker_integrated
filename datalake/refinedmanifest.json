@@ -1,0 +1,23 @@
+{
+    "files": [
+        {
+            "file_name": "patient.parquet",
+            "filepath": "D:/clovertex_assignments/datalake/refined",
+            "row_count": 650,
+            "schema": {
+                "patient_id": "object",
+                "first_name": "object",
+                "last_name": "object",
+                "date_of_birth": "datetime64[ns]",
+                "sex": "object",
+                "blood_group": "object",
+                "admission_dt": "datetime64[ns]",
+                "discharge_dt": "datetime64[ns]",
+                "contact_phone": "object",
+                "contact_email": "object",
+                "site": "object"
+            },
+            "processing_timestamp": "2026-04-30T06:26:44.567825"
+        }
+    ]
+}

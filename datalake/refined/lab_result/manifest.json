@@ -1,0 +1,19 @@
+{
+    "files": [
+        {
+            "file_name": "lab_partitioned_results",
+            "filepath": "datalake/refined/lab_result/",
+            "row_count": 0,
+            "schema": {
+                "lab_result_id": "object",
+                "test_name": "object",
+                "test_value": "float64",
+                "test_unit": "object",
+                "collection_date": "datetime64[ns]",
+                "ordering_physician": "object",
+                "site_name": "object"
+            },
+            "processing_timestamp": "2026-05-01T11:11:36.062987"
+        }
+    ]
+}

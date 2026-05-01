@@ -1,0 +1,11 @@
+{
+    "dataset": "final_patient_data",
+    "rows_in": 1229,
+    "row_out": 41,
+    "issue_found": {
+        "duplicates_removed": 0,
+        "nulls_handled": 695,
+        "encoding_fixed": 0
+    },
+    "processing_timestamp": "2026-05-01T11:11:36.034758"
+}
