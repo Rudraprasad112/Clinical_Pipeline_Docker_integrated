@@ -47,7 +47,7 @@ I made some assumptions:
 - focused on important mutations
 These were needed because some details were not clearly defined.
 
-8. Improvements (Production)
+8. Improvements in Production 
 With more time, I would:
 - use cloud storage like Amazon S3
 - automate workflows using Apache Airflow
@@ -55,7 +55,7 @@ With more time, I would:
 - integrate tools like Databricks
 - build real-time pipelines and monitoring systems
 
-9. Final (important – speak this confidently)
+9. Final (speak this confidently)
     - I have basic knowledge of big data technologies and AWS.
     - I have worked on a few real-time projects and I am a fast learner.
     - I am very interested in working on real-world data problems and growing with a good team.
