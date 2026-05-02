@@ -55,7 +55,7 @@ With more time, I would:
 - integrate tools like Databricks
 - build real-time pipelines and monitoring systems
 
-9. Final (speak this confidently)
+9. Final speak this confidently
     - I have basic knowledge of big data technologies and AWS.
     - I have worked on a few real-time projects and I am a fast learner.
     - I am very interested in working on real-world data problems and growing with a good team.
